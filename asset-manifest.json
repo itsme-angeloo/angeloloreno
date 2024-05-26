@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/angeloloreno/static/css/main.c602a84f.css",
+    "main.js": "/angeloloreno/static/js/main.4d2cc7b7.js",
+    "static/media/airplane.png": "/angeloloreno/static/media/airplane.082f7574dfede18d905c.png",
+    "static/media/coding.png": "/angeloloreno/static/media/coding.c60541c297b6fa337495.png",
+    "static/media/web-design.png": "/angeloloreno/static/media/web-design.6166eee730911832dc17.png",
+    "static/media/cloud-computing.png": "/angeloloreno/static/media/cloud-computing.a0338576cc7330838269.png",
+    "static/media/weather-app.png": "/angeloloreno/static/media/weather-app.dd73e5ef5422687fde17.png",
+    "index.html": "/angeloloreno/index.html",
+    "main.c602a84f.css.map": "/angeloloreno/static/css/main.c602a84f.css.map",
+    "main.4d2cc7b7.js.map": "/angeloloreno/static/js/main.4d2cc7b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c602a84f.css",
+    "static/js/main.4d2cc7b7.js"
+  ]
+}
